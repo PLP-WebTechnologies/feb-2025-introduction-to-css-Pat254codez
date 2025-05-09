@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+.highlight {
+    background-color: light purple;
+}
+.box {
+      border: 2px dashed grey;
+      }
+div {
+  padding: 10px;
+  margin: 7.5px; 
+}
+    
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<head>
+color: green;
+    text-align: center;
+  <title>Sunny days</title>
+</head>
+<body>
+h1 {
+  color: light green;
+}
+  <h1>Sunny days refresh me!</h1>
+body {
+  font-family: Calibri;
+  p {
+    font-size: 10px;
+}
+  <img src="https://images.pexels.com/photos/33044/sunflower-sun-summer-yellow.jpg?auto=compress&cs=tinysrgb&w=600" alt="Beautiful Landscape" width="300">
+    <p>A lovely day for me is when the sun is shining, but it's not too hot, just bright.I love the cool breeze on my face on a bright day, looking at trees and seeing people living life. Add a madafu and it's a day made!.</p>
+</body>
+</html>
